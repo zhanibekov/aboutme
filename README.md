@@ -6,13 +6,13 @@
 
 ###
 
-<h1 align="center">Hello👋 My name is Elaman!</h1>
+<h1 align="center">Hello👋 My name is Elaman Zhanibekov!</h1>
 
 ###
 
 <div align="center">
   <a href="https://www.instagram.com/_zhan1bekov_/" target="_blank">
-    <img src="https://icons8.com/icon/ZRiAFreol5mE/instagram" height="25" alt="instagram logo"  />
+    <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" height="25" alt="instagram logo"  />
   </a>
   <a href="https://t.me/zhanibekovye" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zhanibekovyelaman.zhanibekovyelaman&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zhanibekov.zhanibekovyelaman&"  />
 </div>
 
 ###
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I am a Full-Stack developer with a deep understanding of modern technologies and application architecture. My work covers the entire development cycle: from design and implementation to testing and deployment.<br><br>- 🔭 Participated in the DoctAI startup, developing the client and server parts, as well as implementing artificial intelligence technologies.<br>- 📚 Implemented complex administrative panels, data management systems and REST APIs.<br>- Winner of the BAITC hackathon, where my team developed a prototype of an AI-based medical assistant.</p>
+<p align="left">I am a Full-Stack developer with a deep understanding of modern technologies and application architecture. My work covers the entire development cycle: from design and implementation to testing and deployment.<br><br>- 🔭 Participated in the DoctAI startup, developing the client and server parts, as well as implementing artificial intelligence technologies.<br>- 📚 Implemented complex administrative panels, data management systems and REST APIs.<br>-👨🏻‍💻Winner of the BAITC hackathon, where my team developed a prototype of an AI-based medical assistant.</p>
 
 
 
