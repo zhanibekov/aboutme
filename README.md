@@ -7,7 +7,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yelaman
 ===============================================================================================================================
 
-Full-Stack developer
+I am Full-Stack developer
 --------------------
 
 I am a Full-Stack developer with a deep understanding of modern technologies and application architecture. My work covers the entire development cycle: from design and implementation to testing and deployment. 🔭 Participated in the DoctAI startup, developing the client and server parts, as well as implementing artificial intelligence technologies. 👨🏻‍💻Winner of the BAITC hackathon, where my team developed a prototype of an AI-based medical assistant.
